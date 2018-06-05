@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">final_ser</string>
+    <integer-array name="img_id_arr">
+        <item>@drawable/guppybanner</item>
+        <item>@drawable/villan</item>
+        <item>@drawable/ezrabanner</item>
+    </integer-array>
+</resources>
